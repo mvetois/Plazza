@@ -15,4 +15,4 @@ Plazza - Epitech project tek2
 ## Group members:  
   - [@Captain](https://github.com/Monsterskx)
   - [@antoinegosselin](https://github.com/antoinegosselin)
-  - [@Me](https://github.com/mvetois)
+  - [@mvetois](https://github.com/mvetois)
